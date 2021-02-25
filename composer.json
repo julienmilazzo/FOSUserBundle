@@ -20,7 +20,7 @@
             "homepage": "https://github.com/friendsofsymfony/FOSUserBundle/contributors"
         }
     ],
-    "require": {
+    "require": { 
         "php": "^5.5.9 || ^7.0 || ^8.0",
         "paragonie/random_compat": "^1 || ^2 || ^9",
         "symfony/form": "^2.8 || ^3.0 || ^4.0",
